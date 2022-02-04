@@ -1,0 +1,8 @@
+
+:
+java:S1659	"Declare "b" on a separate line.(şú¯¨ûÿÿÿÿ
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ŠóÆ£şÿÿÿÿ8ôº¨ƒì/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŠóÆ£şÿÿÿÿ8‚©ƒì/
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­”Ü

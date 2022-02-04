@@ -19,13 +19,33 @@ O
 src/com/dh/salario/MilDoze.java,4\6\469d6b73822a44af43864cba67013ca80451d352
 S
 #src/com/dh/salario/MilQuatorze.java,b\d\bd630517e461f1595e7889b6b8fe0e2dc573e7c5
-S
-#src/com/dh/salario/MilDezenove.java,8\b\8b9d9a7672e6eb1f387009aa6d2f68c930966367
-T
-$src/com/dh/salario/MilDezessete.java,8\0\8096c91176420bc0c11d80229db05a8544a873e4
-R
-"src/com/dh/salario/MilDezoito.java,e\1\e16172fe0c2fb830e14c31c50359c07fcd55b880
-P
- src/com/dh/salario/MilVinte.java,d\7\d71a38fc8848d49f97a86b8b79d6771e84ae19c2
-R
-"src/com/dh/salario/MilVinteUm.java,d\b\dbb749fc3608e522aea9c51f482254406a939055
+O
+src/com/dh/salario/Uri1041.java,d\1\d15bb6dd705baf120efa805eb71fe2a47aff2b73
+O
+src/com/dh/salario/Uri1021.java,6\4\64d0a425cccc63841d2479714a95a70d0bd24e66
+O
+src/com/dh/salario/Uri1020.java,f\b\fb9ab75ae2fc156dd5cfae5c92a0ab6d15cf5690
+O
+src/com/dh/salario/Uri1037.java,3\9\39c11aa0b57d87dde84ebfe3a2e34ffb5ce72dc7
+O
+src/com/dh/salario/Uri1038.java,7\3\7363c0df9c72d1d20ec6208bfb30dba8a111f6c0
+O
+src/com/dh/salario/Uri1035.java,1\6\1693943e4cb51bc19f0ac6c942cb9def32de9e4b
+O
+src/com/dh/salario/Uri1018.java,9\0\90ce5be811cca591db0b2fdb08195e6eabd21f72
+O
+src/com/dh/salario/Uri1017.java,1\2\121afbaf30b03e2bd29a6d30b85b318707f79349
+O
+src/com/dh/salario/Uri1019.java,e\8\e8ca12889350ed5df8f7616cf2f75998eecc7520
+O
+src/com/dh/salario/Uri1046.java,d\4\d4f0c3e70f4c3a0975fb95750bac7e63c3f17805
+O
+src/com/dh/salario/Uri1043.java,e\1\e1e5ece819adb50ec1fb575c89297325593e618a
+O
+src/com/dh/salario/Uri1047.java,7\5\75f77c2c5f604122cb0940ca3cba68461b0fe0b4
+O
+src/com/dh/salario/Uri1050.java,b\8\b8bc16bec158677865f966a94c5d5bee42dcb694
+O
+src/com/dh/salario/Uri1051.java,7\1\7151b56cef03f925f1bf81435eb8cba27655d6c2
+O
+src/com/dh/salario/Uri1048.java,b\4\b44067522aa567a0224baa59cf0d4bfee35f52af
