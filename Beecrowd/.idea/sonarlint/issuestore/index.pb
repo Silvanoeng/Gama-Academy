@@ -29,3 +29,31 @@ O
 src/com/dh/salario/Uri1051.java,7\1\7151b56cef03f925f1bf81435eb8cba27655d6c2
 O
 src/com/dh/salario/Uri1048.java,b\4\b44067522aa567a0224baa59cf0d4bfee35f52af
+L
+src/com/dh/salario/Main.java,9\7\9792011ba7af1884e2448b23e2ea68a760e3931b
+O
+src/com/dh/salario/Uri1064.java,c\3\c320441c805073ae70536268c8880628152e0419
+O
+src/com/dh/salario/Uri1065.java,d\0\d0039e2ac2d64b5e77e5c0291e56f50428176dca
+O
+src/com/dh/salario/Uri1066.java,5\0\50349b34e1e00a81bb27a90986bb317be3898b11
+O
+src/com/dh/salario/Uri1134.java,a\7\a75137455fdf936cd53f04cb6b7aa06d767a6589
+O
+src/com/dh/salario/Uri1142.java,e\9\e96495d44f2923a453a3489b34685948270a971f
+O
+src/com/dh/salario/Uri1143.java,c\e\ce230907ed4340ab292e7296d1ddc8a945d94a0e
+O
+src/com/dh/salario/Uri1144.java,e\3\e3fb9537c72e38b5c49468a6ddf84fe7df3cd6a9
+O
+src/com/dh/salario/Uri1067.java,5\8\58a56bd69e4836fc5dc42455758390b64eea51f1
+O
+src/com/dh/salario/Uri1070.java,2\4\24a8882719d5c9d7e82de0bd9c64428778d82f4c
+O
+src/com/dh/salario/Uri1073.java,d\2\d2865aaf24b02a0f33f35bde8b5965f41408279b
+O
+src/com/dh/salario/Uri1074.java,c\5\c590ac5d6401fff593eea53d52f6c02c3bba4260
+O
+src/com/dh/salario/Uri1114.java,a\b\ab93d37b29387ea1addd3a4469823b4baec319a9
+O
+src/com/dh/salario/Uri1115.java,d\6\d6aec492eff5a5f2b98c6181c5a7dccab81e5610
