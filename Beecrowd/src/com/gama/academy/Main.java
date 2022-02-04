@@ -1,4 +1,4 @@
-package com.dh.salario;
+package com.gama.academy;
 
 public class Main {
 

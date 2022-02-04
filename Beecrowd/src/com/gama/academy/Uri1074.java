@@ -26,5 +26,6 @@ public class Uri1074 {
             }
 
         }
+        teclado.close();
     }
 }
