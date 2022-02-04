@@ -1,17 +1,0 @@
-
-O
-java:S1854"9Remove this useless assignment to local variable "peca2".(ùéÁ§
-T
-java:S1854
-"9Remove this useless assignment to local variable "peca1".(ßşæõùÿÿÿÿ
-]
-java:S1659"BDeclare "peca2" and all following declarations on a separate line.(Ä„Şâüÿÿÿÿ
-^
-java:S1659"CDeclare "valor2" and all following declarations on a separate line.(İäÇÊÿÿÿÿÿ
-E
-java:S1481"*Remove this unused "peca1" local variable.(Ä„Şâüÿÿÿÿ
-E
-java:S1481"*Remove this unused "peca2" local variable.(Ä„Şâüÿÿÿÿ
-m
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ê½Á8Ğ½×Úë/
-T	java:S106"9Replace this use of System.out or System.err by a logger.(ê½Á8òÜÒÚë/

@@ -3,6 +3,14 @@ package com.dh.salario;
 public class Main {
 
     public static void main(String[] args) {
-	// 1003, 1005, 1006, 1007, 1008, 1009, 1010, 1012 1014, 107, 1018, 1019, 1020, 1021
+        int n = 0;
+        while (n < 10) {
+            n++;
+            if (n==5){
+                System.out.println("5" + n);
+                continue;
+            }
+            System.out.println("O numero = "+n);
+        }
     }
 }

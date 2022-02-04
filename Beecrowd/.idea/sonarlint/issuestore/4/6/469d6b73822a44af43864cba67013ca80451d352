@@ -1,18 +1,0 @@
-
-T
-java:S1659">Declare "b" and all following declarations on a separate line.(Ó—Û¡
-s
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ç†ï­ıÿÿÿÿ8µ…—Ûë/
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ç†ï­ıÿÿÿÿ
-n
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Í†ÛŠ8®³—Ûë/
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Í†ÛŠ
-s
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ãûğ‰ıÿÿÿÿ8®³—Ûë/
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ãûğ‰ıÿÿÿÿ
-n
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(æÄ°—8«ñ—Ûë/
-N	java:S106"9Replace this use of System.out or System.err by a logger.(æÄ°—
-n
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ø½8«ñ—Ûë/
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Ø½

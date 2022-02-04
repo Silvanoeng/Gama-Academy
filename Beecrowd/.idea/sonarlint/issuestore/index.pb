@@ -1,25 +1,5 @@
 
 O
-src/com/dh/salario/MilTres.java,1\3\1336e3e25e02e2d041c94eeb79838d1a0113a022
-O
-src/com/dh/salario/MilSeis.java,8\9\894cbdf037ffbaf1b0305d07cf121010c1d1e47d
-O
-src/com/dh/salario/MilSete.java,0\a\0a79acbb25b5d03f640eeff8f0e513f1dd18bbc9
-L
-src/com/dh/salario/Main.java,9\7\9792011ba7af1884e2448b23e2ea68a760e3931b
-P
- src/com/dh/salario/MilCinco.java,3\a\3a61d497a714964d3502979b2802d6613eef1a0e
-O
-src/com/dh/salario/MilNove.java,d\1\d1e17aca810941531e25d352eae7a84d5538409e
-O
-src/com/dh/salario/MilOito.java,e\b\ebe18e3136d1e764c6a13df9fe41a916e3cb3a6c
-N
-src/com/dh/salario/MilDez.java,1\c\1c1ddd361398103741a4c32b0940a1250eb4d542
-O
-src/com/dh/salario/MilDoze.java,4\6\469d6b73822a44af43864cba67013ca80451d352
-S
-#src/com/dh/salario/MilQuatorze.java,b\d\bd630517e461f1595e7889b6b8fe0e2dc573e7c5
-O
 src/com/dh/salario/Uri1041.java,d\1\d15bb6dd705baf120efa805eb71fe2a47aff2b73
 O
 src/com/dh/salario/Uri1021.java,6\4\64d0a425cccc63841d2479714a95a70d0bd24e66
