@@ -8,11 +8,10 @@ public class Uri1114 {
         int senha;
         do {
             senha=teclado.nextInt();
-            if (senha==2002){
-                System.out.println("Acesso Permitido");
-            }else {
+            if (senha!=2002){
                 System.out.println("Senha Invalida");
             }
         }while (senha!=2002);
+        System.out.println("Acesso Permitido");
     }
 }

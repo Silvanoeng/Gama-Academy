@@ -17,10 +17,8 @@ public class Uri1115 {
                 System.out.println("segundo");
             }else if (a<0 && b<0) {
                 System.out.println("terceiro");
-            }else if (a==0){
-                b=0;
             }
-        }while (b!=0);
+        }while ( b*a!=0 );
         teclado.close();
     }
 }
