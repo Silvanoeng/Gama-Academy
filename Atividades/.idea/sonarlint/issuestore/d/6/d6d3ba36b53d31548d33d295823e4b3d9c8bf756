@@ -1,0 +1,13 @@
+
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(η™ι
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶†Ϋ¬ϊÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(η™ι
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ΰύεωÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(η™ι
+U
+java:S1128":Remove this unused import 'java.util.concurrent.Callable'.(ΎΧ¶ξϋÿÿÿÿ
+^
+java:S1192
+"HDefine a constant instead of duplicating this literal "Saldo= " 3 times.(η™ι
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—¥…Ζωÿÿÿÿ
