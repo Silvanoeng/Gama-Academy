@@ -1,5 +1,7 @@
 package com.gama.academy.Cartao;
 
+import java.util.Objects;
+
 public class CartaoPrePago {
     private String numeroCartao;
     private String nomeTitular;
@@ -77,4 +79,5 @@ public class CartaoPrePago {
         return String.format("\nCartaoPrePago \nnumeroCartao= %s\nnomeTitular= %s\nanoValidade= %d\nmesValidade= %d\nsaldo= %.2f",
                 this.numeroCartao, this.nomeTitular, this.anoValidade, this.mesValidade, this.saldo);
     }
+
 }
