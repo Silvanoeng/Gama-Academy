@@ -1,0 +1,18 @@
+
+M	java:S106?"9Replace this use of System.out or System.err by a logger.(’£^
+M	java:S106A"9Replace this use of System.out or System.err by a logger.(²”Ìy
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(üø–˜
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(“»Ãñøÿÿÿÿ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(€¼Ì
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(âÁä üÿÿÿÿ
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(ÕñÁÅ
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(½‘›
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(ÿö¿şşÿÿÿÿ
+N	java:S106["9Replace this use of System.out or System.err by a logger.(ÕñÁÅ
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(½‘›
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(—Ç¾àùÿÿÿÿ
+g
+java:S1192?"RDefine a constant instead of duplicating this literal ", para a pÃ¡gina " 3 times.(’£^
+j
+java:S1192?"UDefine a constant instead of duplicating this literal "Passando da pÃ¡gina " 3 times.(’£^
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ú¯Îø
