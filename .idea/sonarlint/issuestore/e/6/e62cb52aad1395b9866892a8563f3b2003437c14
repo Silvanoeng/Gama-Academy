@@ -1,15 +1,0 @@
-
-E
-java:S1197"*Move the array designators [] to the type.(“ØÂ°ùÿÿÿÿ
-@
-java:S1197"*Move the array designators [] to the type.(Ó–É”
-j
-java:S6201"TReplace this instanceof check and cast with 'instanceof BemTributavel bemtributavel'(Ú°…†
-N	java:S106("9Replace this use of System.out or System.err by a logger.(Ú“ÜÝ
-g
-java:S3457)"Q%n should be used in place of \n to produce the platform-specific line separator.(ö–‹Ÿ
-N	java:S106)"9Replace this use of System.out or System.err by a logger.(ö–‹Ÿ
-S	java:S106*"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
-o
-java:S1192"YDefine a constant instead of duplicating this literal "Rua 11 de Abril, nÂ°4566" 3 times.(âÆ·ª
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëÔúÜ

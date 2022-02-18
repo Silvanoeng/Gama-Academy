@@ -17,13 +17,3 @@ m
 =Atividades/src/com/gama/academy/ExerHeranInter/Core/Moto.java,d\d\dd268cf724c9239c4633a3806f90b3a8b3367e52
 n
 >Atividades/src/com/gama/academy/ExerHeranInter/Core/Carro.java,4\b\4bc58fc235c9527e0d062d7eda76400e3c2c2b9e
-r
-BAtividades/src/com/gama/academy/ExerHeranInter/Core/Comercial.java,d\9\d990f6467d2a51379565b0ec149ad001dcdc9457
-t
-DAtividades/src/com/gama/academy/ExerHeranInter/Core/Residencial.java,6\b\6b017c24beac885b7e12e74bf550a2d8741f62ed
-n
->Atividades/src/com/gama/academy/ExerHeranInter/Core/Rural.java,4\8\48b756fdf01e9c33ae776878e6b6e5497f236377
-o
-?Atividades/src/com/gama/academy/ExerHeranInter/Core/Imovel.java,c\7\c7bc3ce6b205a8c12f43f4a3e7ce78db71ef5a1c
-h
-8Atividades/src/com/gama/academy/ExerHeranInter/Main.java,e\6\e62cb52aad1395b9866892a8563f3b2003437c14
