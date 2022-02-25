@@ -5,33 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01b71d19-3d25-4564-b9aa-372057a29492" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Atividades/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/LerArquivo/Empresa/Chefe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/LerArquivo/Empresa/Comissionado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/LerArquivo/Empresa/Empreiteiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/LerArquivo/Empresa/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/LerArquivo/Empresa/Horista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/LerArquivo/FabricaDeFuncionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/LerArquivo/FolhaDePagamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/LerArquivo/Leitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/Lista/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/Lista/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/folha.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1af5694529581b2c0aa6944337d12c2a12640ce6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f5f397ed7401688a365ef488394b3e3142def7e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4bc58fc235c9527e0d062d7eda76400e3c2c2b9e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/55d627ef66cb12fbd438ef487e90c133ef7cd3ca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/699d53e019f3f70d238b72d16c5d90ccb01316a5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a4cfdf600b7f0f2bbaab14591366f9a58d2df52" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4a81192ca2cf323169c0862f2d31d900fe38902" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/dd268cf724c9239c4633a3806f90b3a8b3367e52" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8823230076e84f69594b43842810e9bf1af2548" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5ecf0143fd4163afe2e887535a0c23335c3cfbc8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/8639b93f8aa70ce38f99ea2e1284d1b4ac57e7da" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/931b588dbc971a81c13c6aa75b6dd53f9981653b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/AtividadeXML/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/AtividadeXML/Service/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/AtividadeXML/Service/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/AtividadeXML/Service/XMLFileGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/AtividadeXML/Service/XMLGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gama-Academy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Gama-Academy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividades/src/com/gama/academy/LerArquivo/FabricaDeFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/LerArquivo/FabricaDeFuncionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividades/src/com/gama/academy/LerArquivo/FolhaDePagamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/LerArquivo/FolhaDePagamento.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +42,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Atividades/src/com/gama/academy/LerArquivo/Empresa" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -66,7 +53,7 @@
       <recent name="D:\Gama-Academy" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gama.academy.Lista.Main" />
       <module name="Gama-Academy" />
@@ -80,8 +67,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gama.academy.AtividadeXML.Service.Main" />
+      <module name="Gama-Academy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gama.academy.AtividadeXML.Service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -107,5 +108,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

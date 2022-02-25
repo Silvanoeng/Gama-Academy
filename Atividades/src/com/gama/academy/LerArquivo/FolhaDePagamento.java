@@ -11,10 +11,6 @@ public class FolhaDePagamento {
 
         ArrayList<Funcionario> lista = new ArrayList<Funcionario>();
 
-        try {
-            FileReader arquivo = FileReader(new File("./dados.txt"));
 
-            }
-        }
     }
 }
