@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01b71d19-3d25-4564-b9aa-372057a29492" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5ecf0143fd4163afe2e887535a0c23335c3cfbc8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/8639b93f8aa70ce38f99ea2e1284d1b4ac57e7da" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/931b588dbc971a81c13c6aa75b6dd53f9981653b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/AtividadeXML/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/AtividadeXML/Service/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/AtividadeXML/Service/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/AtividadeXML/Service/XMLFileGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/AtividadeXML/Service/XMLGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atividades/src/com/gama/academy/LerArquivo/FabricaDeFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/LerArquivo/FabricaDeFuncionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atividades/src/com/gama/academy/LerArquivo/FolhaDePagamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/LerArquivo/FolhaDePagamento.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +42,7 @@
       <recent name="D:\Gama-Academy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gama.academy.Lista.Main" />
       <module name="Gama-Academy" />
@@ -82,7 +71,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>

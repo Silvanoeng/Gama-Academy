@@ -7,3 +7,25 @@ _
 /Atividades/src/com/gama/academy/Lista/Main.java,8\6\8639b93f8aa70ce38f99ea2e1284d1b4ac57e7da
 m
 =Atividades/src/com/gama/academy/LerArquivo/Empresa/Chefe.java,9\3\931b588dbc971a81c13c6aa75b6dd53f9981653b
+t
+DAtividades/src/com/gama/academy/LerArquivo/Empresa/Comissionado.java,6\c\6c067e8e6657bf5bad89d4553c109f6b331f09bc
+s
+CAtividades/src/com/gama/academy/LerArquivo/Empresa/Empreiteiro.java,6\e\6e2df0511272441e8309e8440add04c3ef9c5ef5
+o
+?Atividades/src/com/gama/academy/LerArquivo/Empresa/Horista.java,9\8\98c1fe03441836521d4da8d1f9a7641312ee3c53
+f
+6Atividades/src/com/gama/academy/LerArquivo/Leitor.java,d\5\d51968c8d0b26af8b5ed7c3b41e625544ff08ce4
+9
+	folha.txt,f\e\fed0b88021a5709e8f30c7eb353124e7ad665408
+s
+CAtividades/src/com/gama/academy/LerArquivo/Empresa/Funcionario.java,1\3\13fd84fb2572a7f99e7a76797e0f00ec0e477000
+t
+DAtividades/src/com/gama/academy/LerArquivo/FabricaDeFuncionario.java,b\1\b19072880ddaba7e96f43b6d240ff8a26f762a12
+n
+>Atividades/src/com/gama/academy/AtividadeXML/Service/Main.java,6\c\6ca30446927fa0b15663701ce08a6dd4d6104ef3
+s
+CAtividades/src/com/gama/academy/AtividadeXML/Service/Principal.java,4\7\47a08adec518400923f4583f6d2b2723a020b6b6
+z
+JAtividades/src/com/gama/academy/AtividadeXML/Service/XMLFileGenerator.java,3\7\375e20507b0cdffa14a3e4bb335b33f6e7e95993
+v
+FAtividades/src/com/gama/academy/AtividadeXML/Service/XMLGenerator.java,c\5\c50f3dc22a6721116f33296b88a2b21d84fd33c8

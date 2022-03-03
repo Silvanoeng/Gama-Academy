@@ -1,0 +1,18 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ß¿”ÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³ Ó¢ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã×€ıÿÿÿÿ
+B
+java:S3011",This accessibility update should be removed.(Óı Ê
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ôä
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œ¬Ôšşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øáø¶üÿÿÿÿ
+G
+java:S3011",This accessibility update should be removed.(óÖü³üÿÿÿÿ
+G
+java:S3011",This accessibility bypass should be removed.(Ò¹Ëªüÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(‡üÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(õ¤¯¿ıÿÿÿÿ
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¤«…ó/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’àÏÅÿÿÿÿÿ

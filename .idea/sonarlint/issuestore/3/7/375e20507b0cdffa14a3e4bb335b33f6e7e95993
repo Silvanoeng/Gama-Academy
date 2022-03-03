@@ -1,0 +1,6 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(—šìéøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’àÏÅÿÿÿÿÿ
+^
+java:S2095	"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(û–…È
