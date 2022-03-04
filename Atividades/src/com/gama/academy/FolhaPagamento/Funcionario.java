@@ -1,6 +1,6 @@
 package com.gama.academy.FolhaPagamento;
 
-public abstract class Funcionario {
+public abstract class Funcionario implements Comparable<Funcionario>{
     private String nome;
     private int numeroRegistro;
 
@@ -31,5 +31,16 @@ public abstract class Funcionario {
     public String toString() {
         return  "Nome:" + nome +
                 "\nNumeroRegistro:" + numeroRegistro;
+    }
+
+    @Override
+    public int compareTo(Funcionario fun) {
+        if (this.calcularSalario() < fun.calcularSalario()){
+            return 1;
+        }else if (this.calcularSalario() > fun.calcularSalario()){
+            return -1;
+        }
+        return 0;
+
     }
 }

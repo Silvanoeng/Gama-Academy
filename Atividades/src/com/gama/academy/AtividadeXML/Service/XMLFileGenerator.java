@@ -3,7 +3,7 @@ package com.gama.academy.AtividadeXML.Service;
 import java.io.FileWriter;
 
 public class XMLFileGenerator {
-    public static void generateXMLFile(Object obj){
+    /*public static void generateXMLFile(Object obj){
         try {
             String name = obj.getClass().getSimpleName()+".xml";
             FileWriter arquivo = new FileWriter(name);
@@ -15,4 +15,5 @@ public class XMLFileGenerator {
             ex.printStackTrace();
         }
     }
+    */
 }

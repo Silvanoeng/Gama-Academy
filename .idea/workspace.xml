@@ -5,12 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01b71d19-3d25-4564-b9aa-372057a29492" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/375e20507b0cdffa14a3e4bb335b33f6e7e95993" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47a08adec518400923f4583f6d2b2723a020b6b6" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6ca30446927fa0b15663701ce08a6dd4d6104ef3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c50f3dc22a6721116f33296b88a2b21d84fd33c8" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+>>>>>>> 18c09cb9fbf4787602b25ab756ba51fabbc570b4
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividades/src/com/gama/academy/AtividadeXML/Service/XMLFileGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/AtividadeXML/Service/XMLFileGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividades/src/com/gama/academy/FolhaPagamento/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/FolhaPagamento/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividades/src/com/gama/academy/FolhaPagamento/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/FolhaPagamento/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividades/src/com/gama/academy/Teste/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Atividades/src/com/gama/academy/Teste/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +36,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="25TBZog7BH4qeVek3Ayn4HJ56SX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,6 +49,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -46,7 +61,33 @@
       <recent name="D:\Gama-Academy" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gama.academy.Teste.Main" />
+      <module name="Gama-Academy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gama.academy.Teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gama.academy.FolhaPagamento.Main" />
+      <module name="Gama-Academy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gama.academy.FolhaPagamento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gama.academy.Lista.Main" />
       <module name="Gama-Academy" />
@@ -75,6 +116,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -100,6 +143,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
